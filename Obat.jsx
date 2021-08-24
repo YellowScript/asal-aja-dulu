@@ -1,12 +1,10 @@
 Menu obat :
 
-Mixagrip
+Mixagrip flu pilek
 OskadonSP
 Konidin
 Komix
-Bodrek extra
-Bintang 7
-
-Obt sakit gigi
-Obat gatell
+spontan
+Obat gatel daun mujarab
 Promaag
+puyer 16
