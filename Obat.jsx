@@ -5,5 +5,5 @@ OskadonSP
 Konidin
 Komix
 Obt sakit gigi
-Obat gatell
+Obat gatel daun mujarab
 Promaag
