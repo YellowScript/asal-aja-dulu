@@ -36,3 +36,12 @@ Rambutan tarakan
 Duku palembang
 Nangka mateng
 Manggis asemm sepet
+
+
+Sate hewan lezat:
+
+Sate kambing
+Sate ayam
+Sate bebek
+Sate angsa
+Sate burung dara
