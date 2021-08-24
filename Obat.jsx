@@ -8,5 +8,5 @@ Bodrek extra
 Bintang 7
 
 Obt sakit gigi
-Obat gatel
+Obat gatell
 Promaag
