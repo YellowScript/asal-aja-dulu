@@ -5,6 +5,6 @@ OskadonSP
 Konidin
 Komix
 spontan
-Obat gatell
+Obat gatel daun mujarab
 Promaag
 puyer 16
