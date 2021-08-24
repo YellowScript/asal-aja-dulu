@@ -4,6 +4,7 @@ Mixagrip flu dan batuk
 OskadonSP
 Konidin
 Komix
-Obt sakit gigi
+spontan
 Obat gatel daun mujarab
 Promaag
+puyer 16
