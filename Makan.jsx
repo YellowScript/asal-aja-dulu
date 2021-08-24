@@ -5,11 +5,14 @@ Somay
 Bakmie
 Batagor
 Sayur bening
-Ikan bawal
-Sambal tomat
+Ikan lele
+Sambal pedas nikmat
 Sate usus
 Sate telur puyuh
-
+Pecel bayem
+Sambel kacang
+Gorengan tahu tempe
+Saus cabai pedas
 
 
 Minumnya :
@@ -19,9 +22,9 @@ Kopi susu
 Susu sapi boyolali
 Es nutrisari
 Kopi joss areng
-Kopi aceh
 Teh kotak
-
+Es cincau hitam
+Jamu sehat terus
 
 Buah segernya :
 
@@ -31,3 +34,5 @@ Pisang raja sere
 Salak pondoh
 Rambutan tarakan
 Duku palembang
+Nangka mateng
+Manggis asemm sepet
