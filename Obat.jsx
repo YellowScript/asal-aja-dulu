@@ -1,6 +1,6 @@
 Menu obat :
 
-Mixagrip flu pilek
+Mixagrip flu dan batuk
 OskadonSP
 Konidin
 Komix
